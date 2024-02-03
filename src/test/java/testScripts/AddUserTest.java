@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
-
+//this test is used to add user to the application
 public class AddUserTest extends BaseClass {
 	
 	@Test
